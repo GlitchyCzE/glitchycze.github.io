@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/GlitchyCzE/glitchycze.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I'm Zach and I attend Rochester Institute of Technology as a First Year Software Engineering student. I like to problem solve and work in teams. I've been programming since I was 11 and my first language was Lua. My primary languages are now Java and JavaScript/TypeScript. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### I like steak
 
-### Markdown
+![Image](https://hips.hearstapps.com/del.h-cdn.co/assets/18/08/1519155106-flank-steak-horizontal.jpg) Steak
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### A link to the SE Website
 
-```markdown
-Syntax highlighted code block
+[Click me!](http://www.se.rit.edu/~swen-101)
 
-# Header 1
-## Header 2
-### Header 3
+### What I want to actually learn
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GlitchyCzE/glitchycze.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* How to work productively in a team
+* How to be a good leader
+* How to recognize skills of others and allow them to grow professionally
